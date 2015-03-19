@@ -1,0 +1,11 @@
+{
+  "name": "http_client-haolue",
+  "version": "1.0.0",
+  "description": "http client",
+  "main": "httpClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
